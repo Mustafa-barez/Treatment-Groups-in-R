@@ -1,5 +1,5 @@
 ---
-title: "Conversation Rates from Control and Treatment Groups"
+title: "Conversion Rates from Control and Treatment Groups"
 author: "Jie Huang, Mustafa Barez"
 date: "21/03/2020"
 output: pdf_document
